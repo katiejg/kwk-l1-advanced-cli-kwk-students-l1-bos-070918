@@ -19,12 +19,12 @@ mv lean_cuisine.txt ../freezer;
 mv leeks.txt ../veggies;
 mv milk.txt ../dairy;
 mv mint_milano_cookies.txt ..;
-mv onion.txt;
-mv oreos.txt;
-mv potatoes.txt;
-mv salmon_steak.txt;
-mv tiramisu_cake.txt;
-mv tomatoes.txt;
+mv onion.txt ../veggies;
+mv oreos.txt ../;
+mv potatoes.txt ../veggies;
+mv salmon_steak.txt ../meat;
+mv tiramisu_cake.txt ../dessert;
+mv tomatoes.txt ..;
 mv trail_mix.txt;
 mv turkey_breast.txt;
 mv velveeta_cheese.txt
